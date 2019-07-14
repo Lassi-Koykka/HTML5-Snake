@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#myCanvas {
+    background-color: darkslategray;
+    border: 4px dashed black;
+}
